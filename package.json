@@ -1,0 +1,24 @@
+{
+  "name": "05-cima-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJako98/05-Clima-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJako98/05-Clima-App/issues"
+  },
+  "homepage": "https://github.com/TheJako98/05-Clima-App#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.0.0"
+  }
+}
